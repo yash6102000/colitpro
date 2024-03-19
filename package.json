@@ -1,6 +1,6 @@
 {
   "name": "colitpro",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -22,7 +22,10 @@
     "type": "git",
     "url": "git remote add origin https://github.com/yash6102000/colitpro.git"
   },
-  "author": "",
+  "author": "co",
   "license": "ISC",
-  "description": ""
+  "description": "litco",
+  "keywords": [
+    "colit"
+  ]
 }
